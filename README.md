@@ -1,5 +1,4 @@
-
-<!DOCTYPE html>
+[index_Version6.html](https://github.com/user-attachments/files/22457767/index_Version6.html)[Upl<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -8,7 +7,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background: #f6f6f6;
+            background: #b71c1c; /* fundo vermelho */
             margin: 0;
             padding: 0;
         }
@@ -43,7 +42,8 @@
         }
         .cta-button {
             display: block;
-            width: 100%;
+            width: 94%;
+            margin: 0 auto;
             padding: 16px;
             background: #2e7d32;
             color: #fff;
@@ -66,8 +66,8 @@
             <p>Líquido que se nivela ao chão por si só, que após seco serve como piso e pode ser usado sobre um piso já colocado.</p>
         </div>
         <div class="product-image">
-      
-            <img src="https://images.tcdn.com.br/img/img_prod/1019484/ki…ranco_1987_3_5b7edabcb68941c4b4c3f780ac276e2b.jpg" alt="Piso Autonivelante">
+         
+            <img src="D_NQ_NP_2X_942451-MLB88577138342_072025-F-autonivelante-epoxi-ag-1m-alta-qualidade-e-desempenho" alt="Piso Autonivelante">
         </div>
         <div class="benefits">
             <h2>Benefícios</h2>
@@ -79,4 +79,5 @@
         <a class="cta-button" href="#">Compre já</a>
     </div>
 </body>
-</html>
+</html>oading index_Version6.html…]()
+
