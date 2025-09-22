@@ -1,4 +1,4 @@
-[index_Version6.html](https://github.com/user-attachments/files/22457767/index_Version6.html)[Upl<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background: #b71c1c; /* fundo vermelho */
+            background: #b71c1c; 
             margin: 0;
             padding: 0;
         }
@@ -63,18 +63,22 @@
     <div class="container">
         <div class="header">
             <h1>Piso Autonivelante</h1>
-            <p>Líquido que se nivela ao chão por si só, que após seco serve como piso e pode ser usado sobre um piso já colocado.</p>
+            <p>Líquido que se nivela a superfície e pode ser instalado sobre outro piso.</p>
         </div>
         <div class="product-image">
-         
-            <img src="D_NQ_NP_2X_942451-MLB88577138342_072025-F-autonivelante-epoxi-ag-1m-alta-qualidade-e-desempenho" alt="Piso Autonivelante">
+            <img src="https://i.imgur.com/f6vN6jr.png" alt="AG Piso Autonivelante Epóxi" />
         </div>
         <div class="benefits">
             <h2>Benefícios</h2>
             <ul>
-                <li>Utilização prática, rápida e simples comparado ao piso normal</li>
+                <li>Utilização prática, rápida e simples</li>
                 <li>Pouco tempo de espera</li>
             </ul>
+        </div>
+        <a class="cta-button" href="#">Compre já</a>
+    </div>
+</body>
+</html>
         </div>
         <a class="cta-button" href="#">Compre já</a>
     </div>
